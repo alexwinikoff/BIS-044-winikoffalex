@@ -11,3 +11,4 @@ for (i in n)
   if (PRESIDENT$candidate == "DONALD J TRUMP") then {}
 }
 
+#0/50 use for loop to cube numbers 10 through 20 
